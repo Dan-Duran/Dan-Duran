@@ -9,9 +9,6 @@ I'm Dan, a cybersecurity professional with many years of experience and currentl
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dan-duran&theme=vue-dark&hide_border=true&layout=compact)
 
-![Dan-Duran's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=dan-duran&theme=vue-dark)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dan-duran&theme=darkhub&no-frame=true&column=7)
 
 
 ## 🚀 About Me
