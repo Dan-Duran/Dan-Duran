@@ -1,7 +1,6 @@
 # Hi, I'm Dan Duran! 👋
 
-
-I'm Dan, a cybersecurity professional with many years of experience and currently pursuing a Master's degree in Science in Cybersecurity. I run Rhyno Cybersecurity, offering ethical hacking services and penetration testing to a variety of clients. My technical expertise is rooted in using Python and I'm proficient in managing Linux servers, Docker, and AWS services. I also have experience with Windows and Mac environments. My cybersecurity interests include a broad range of topics, from malware to attack methodologies. I also share my knowledge through a tutorial channel aimed at Technology and cybersecurity enthusiasts.
+I help companies protect their digital assets and customer data. My work includes security assessments, penetration testing, and implementing robust defenses. I also assist businesses in optimizing their technology investments and support various development projects.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dan-duran&theme=vue-dark&hide_border=true)
 
@@ -10,9 +9,10 @@ I'm Dan, a cybersecurity professional with many years of experience and currentl
 
 ## 🚀 About Me
 
-## My Articles
+For 15 years, I've worked in the tech industry. I'm a cybersecurity pro, software developer, and technology enthusiast. I'm passionate about sharing my knowledge with others.
 
-## Tech Stack
+## My Places
+- [GetCyber](https://getcyber.me/s)
 
 ## 📬 Get in Touch
 
