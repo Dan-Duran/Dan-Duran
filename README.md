@@ -1,6 +1,6 @@
 # Hi, I'm Dan Duran! 👋
 
-I help companies protect their digital assets and customer data. My work includes security assessments, penetration testing, and implementing robust defenses. I also assist businesses in optimizing their technology investments and support various development projects.
+I help companies protect their assets, financial, and customer data. My work includes security assessments, penetration testing, and implementing robust defenses. I also assist businesses in optimizing their technology investments and support various development projects.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dan-duran&theme=vue-dark&hide_border=true)
 
