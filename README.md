@@ -19,7 +19,7 @@ src="https://img.shields.io/github/followers/Dan-Duran?logo=github&style=for-the
 
 
 ## 🚀 Socials
-<a href="https://youtube.com/@getcyber" target="_blank" rel="noreferrer"><img src="![617635_youtube_icon](https://github.com/user-attachments/assets/ef9ace8a-873c-47b0-a6a9-3732bef31599)
+<a href="https://youtube.com/@getcyber" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/ef9ace8a-873c-47b0-a6a9-3732bef31599
 " width="32" height="32" /></a>
 
 
