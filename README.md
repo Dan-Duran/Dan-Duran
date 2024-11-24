@@ -30,8 +30,13 @@ src="https://img.shields.io/github/followers/Dan-Duran?logo=github&style=for-the
 | <a href="https://www.instagram.com/getcyber.me" target="_blank" rel="noreferrer"><img src="https://getcyber.me/static/images/icons/instagram.png" width="32" height="32" /></a> | Instagram        | [instagram.com/getcyber.me](https://www.instagram.com/getcyber.me) |
 
 ## ❤️ Subscribe to my GitHub Channel!
-[![GitHub stars](https://img.shields.io/github/stars/Dan-Duran/repo-name?style=social)](https://github.com/Dan-Duran/repo-name/stargazers) 
-[![GitHub forks](https://img.shields.io/github/forks/Dan-Duran/repo-name?style=social)](https://github.com/Dan-Duran/repo-name/network/members)
+
+[![GitHub stars](https://img.shields.io/github/stars/Dan-Duran/Windows-Security-Scripts?style=social)](https://github.com/Dan-Duran/Windows-Security-Scripts/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Dan-Duran/Windows-Security-Scripts?style=social)](https://github.com/Dan-Duran/Windows-Security-Scripts/network/members)
+
+[![GitHub stars](https://img.shields.io/github/stars/Dan-Duran/dvwp?style=social)](https://github.com/Dan-Duran/dvwp/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Dan-Duran/dvwp?style=social)](https://github.com/Dan-Duran/dvwp/network/members)
+
 
 ```
  ________ __                         __              __      __                 __ 
