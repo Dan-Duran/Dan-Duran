@@ -17,6 +17,8 @@ src="https://img.shields.io/github/followers/Dan-Duran?logo=github&style=for-the
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dan-duran&theme=vue-dark&hide_border=true&layout=compact)
 
+<img width="792" alt="image" src="https://github.com/user-attachments/assets/0bf80479-3ce2-4a46-b4ac-06538b6b142e">
+
 
 ## 🚀 Socials
 
