@@ -13,7 +13,7 @@ I help companies protect their assets, financial, and customer data. My work inc
 <a href="https://www.github.com/Dan-Duran" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Dan-Duran?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Dan-Duran" alt="GitHub Streak" /></a>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dan-duran&theme=vue-dark&hide_border=true&layout=compact)
 
