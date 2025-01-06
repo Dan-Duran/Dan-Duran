@@ -12,9 +12,6 @@ I help companies protect their assets, financial, and customer data. My work inc
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Dan-Duran&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Dan-Duran&theme=dark&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
-
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dan-duran&theme=vue-dark&hide_border=true&layout=compact)
 
 <img width="792" alt="image" src="https://github.com/user-attachments/assets/0bf80479-3ce2-4a46-b4ac-06538b6b142e">
