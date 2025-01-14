@@ -1,14 +1,20 @@
 # Hi, I'm Dan Duran (GetCyber)! 👋
 
  
----
-### 💝 Support My Work
-
-<a href="https://github.com/sponsors/Dan-Duran">
-  <img src="https://img.shields.io/badge/Sponsor_my_work-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="Sponsor" />
-</a>
-Your sponsorship helps keep my open-source projects alive!
----
+> ### 💝 Support My Work
+> 
+> [![Click to Sponsor!](https://img.shields.io/badge/Sponsor_my_work-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/Dan-Duran)
+>
+> Your sponsorship helps keep my open-source projects alive! From interactive learning tools to security guides, every contribution makes a difference in keeping these resources free and accessible to everyone.
+>
+> <details>
+> <summary>Why sponsor?</summary>
+>
+> - 🔨 Maintain and improve existing tools
+> - 📚 Create new educational content
+> - 🌐 Keep resources free and accessible
+> - 💡 Dedicate more time to community projects
+> </details>
 
 ### 😎 About Me
 
