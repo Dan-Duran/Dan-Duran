@@ -10,7 +10,7 @@
 Your sponsorship helps keep my open-source projects alive!
 ---
 
-😎 About Me
+### 😎 About Me
 
 I help companies protect their assets, financial, and customer data. My work includes security assessments, penetration testing, and implementing robust defenses. I also assist businesses in optimizing their technology investments and support various development projects.
 
