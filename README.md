@@ -22,7 +22,7 @@ I help companies protect their assets, financial, and customer data. My work inc
 
 * 🌍  I'm based in Ontario, Canada
 * 🖥️  See my website at [GetCyber.me](http://getcyber.me)
-* ✉️  You can contact me at [dan@getcyber.me](mailto:dan@getcyber.me)
+* ✉️  You can contact me at [getcyber.me/contact](https://getcyber.me/contact)
 * 🧠  I'm learning AI/LLM Training
 * 🤝  I'm open to collaborating on exciting projects as a backend developer or rel.
 
