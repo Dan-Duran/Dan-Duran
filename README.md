@@ -1,21 +1,20 @@
 # Hi, I'm Dan Duran (GetCyber)! 👋
 
-<div align="center">
-  
-  ---
-  ### 💝 Support My Work
-  
-  <a href="https://github.com/sponsors/Dan-Duran">
-    <img src="https://img.shields.io/badge/Sponsor_my_work-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="Sponsor" />
-  </a>
-  
-  Your sponsorship helps keep my open-source projects alive!
-  From interactive learning tools to security guides, every contribution counts.
-  
-  [🌟 Become a Sponsor](https://github.com/sponsors/Dan-Duran)
-  
-  ---
-</div>
+ 
+---
+### 💝 Support My Work
+
+<a href="https://github.com/sponsors/Dan-Duran">
+  <img src="https://img.shields.io/badge/Sponsor_my_work-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="Sponsor" />
+</a>
+
+Your sponsorship helps keep my open-source projects alive!
+From interactive learning tools to security guides, every contribution counts.
+
+[🌟 Become a Sponsor](https://github.com/sponsors/Dan-Duran)
+
+---
+
 
 I help companies protect their assets, financial, and customer data. My work includes security assessments, penetration testing, and implementing robust defenses. I also assist businesses in optimizing their technology investments and support various development projects.
 
