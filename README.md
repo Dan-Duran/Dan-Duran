@@ -16,6 +16,9 @@
 > - 💡 Dedicate more time to community projects
 > </details>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dan-Duran" alt="dan-duran" /></a> </p>
+
+
 ### 😎 About Me
 
 I help companies protect their assets, financial, and customer data. My work includes security assessments, penetration testing, and implementing robust defenses. I also assist businesses in optimizing their technology investments and support various development projects.
