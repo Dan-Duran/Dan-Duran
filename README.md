@@ -66,6 +66,11 @@ I help companies protect their assets, financial, and customer data. My work inc
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dan-Duran" alt="Dan-Duran" /></p>
 
+### Hack The Box
+
+![Screenshot_20250321_085024](https://github.com/user-attachments/assets/1d494230-4e2c-463e-8ca4-6bce359c78b6)
+
+
 ## ❤️ Subscribe to my GitHub!
 
 ```
