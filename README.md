@@ -68,7 +68,7 @@ I help companies protect their assets, financial, and customer data. My work inc
 
 ### Hack The Box
 
-![Screenshot_20250321_085024](https://github.com/user-attachments/assets/1d494230-4e2c-463e-8ca4-6bce359c78b6)
+<img width="1358" alt="image" src="https://github.com/user-attachments/assets/92ab4e00-46fd-4fd7-902b-c54d295683a3" />
 
 
 ## ❤️ Subscribe to my GitHub!
