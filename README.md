@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dan Duran (GetCyber)</h1>
-<h3 align="center">🚀 Technology Worshiper on a Quest to Change the World!</h3>
+<h3 align="center">🚀 I build systems and break them. I cut through noise to share the honest truth about technology, separating real security from the illusion of safety.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Dan-Duran&label=Profile%20views&color=0e75b6&style=flat" alt="dan-duran" /> </p>
 
