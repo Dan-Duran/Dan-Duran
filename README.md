@@ -9,11 +9,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dan-Duran" alt="dan-duran" /></a> </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dan-Duran&show_icons=true" alt="Dan Duran GitHub stats" />
-</p>
-
-
 I help companies protect their assets, financial, and customer data. My work includes security assessments, penetration testing, and implementing robust defenses. I also assist businesses in optimizing their technology investments and support various development projects.
 
 - 👨‍💻 All of my projects are available at [https://getcyber.me/tools/](https://getcyber.me/tools/)
