@@ -3,16 +3,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Dan-Duran&label=Profile%20views&color=0e75b6&style=flat" alt="dan-duran" /> </p>
 
-
-<p align="left">
-  <img src="https://github-profile-trophy-kannan.vercel.app/?username=Dan-Duran&theme=dark" />
-</p>
-
 ---
 
 ### 😎 About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dan-Duran" alt="dan-duran" /></a> </p>
+<p align="left">
+  <img src="https://github-profile-trophy-kannan.vercel.app/?username=Dan-Duran&theme=dark" />
+</p>
 
 I help companies protect their assets, financial, and customer data. My work includes security assessments, penetration testing, and implementing robust defenses. I also assist businesses in optimizing their technology investments and support various development projects.
 
