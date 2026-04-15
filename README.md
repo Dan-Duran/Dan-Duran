@@ -4,9 +4,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Dan-Duran&label=Profile%20views&color=0e75b6&style=flat" alt="dan-duran" /> </p>
 
 
-### 😎 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dan-Duran)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left">
+  <img src="https://github-profile-trophy-kannan.vercel.app/?username=Dan-Duran&theme=dark" />
+</p>
 
 ---
 
