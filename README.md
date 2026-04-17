@@ -124,3 +124,5 @@ I help companies protect their assets, financial, and customer data. My work inc
 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+
+GetCyber is a trade name of 17848676 Canada Inc. All rights reserved.
