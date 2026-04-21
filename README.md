@@ -7,9 +7,8 @@
 
 ### 😎 About Me
 
-<p align="left">
-  <img src="https://github-profile-trophy-kannan.vercel.app/?username=Dan-Duran&theme=dark" />
-</p>
+<img src="https://github.com/user-attachments/assets/cd56c6b0-8231-48eb-9364-d8ef0b339b84" alt="Trophy" width="100%" />
+
 
 I help companies protect their assets, financial, and customer data. My work includes security assessments, penetration testing, and implementing robust defenses. I also assist businesses in optimizing their technology investments and support various development projects.
 
